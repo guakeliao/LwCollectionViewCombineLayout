@@ -1,0 +1,6 @@
+framework module LwCollectionViewCombineLayout {
+  umbrella header "LwCollectionViewCombineLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
